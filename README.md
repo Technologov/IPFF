@@ -124,3 +124,19 @@ An attempts to build a hybrid between IPv4 and IPv6, improving on both. Large ad
          is not needed.
          Details in [IPFF-ADDRARCH]
 
+
+Something like this in IPv6:
+
+2001:db8:2e1:1a73:149f:88ff:fe81:6116
+
+...is absolutely not readable by a human. Not memorizable either.
+   
+Example IP-FF addresses:
+
+
+192.168.510.971.11
+
+10.0.0.0.1
+
+382.201.769.25.133
+
