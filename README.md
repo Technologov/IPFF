@@ -1,5 +1,5 @@
-# IPFF
-Internet Protocol - Five Fields.
+# Internet Protocol - Five Fields
+
 An attempts to build a hybrid between IPv4 and IPv6, improving on both. Large address space, but readable addresses.
 
    IP version 5 "Five Fields" (IP-FF) is a new version of the Internet
